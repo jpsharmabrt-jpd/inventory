@@ -1,0 +1,7 @@
+/* style.css - StockMaster Pro Enterprise */
+@media print {
+    body { background: white !important; color: black !important; }
+    .no-print { display: none !important; }
+}
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
